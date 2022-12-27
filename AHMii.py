@@ -346,4 +346,3 @@ class load:
         print('\n')
  
 Sad_boy()
- 
