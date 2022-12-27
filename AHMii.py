@@ -88,13 +88,13 @@ logo =                                          """
 \033[1;31m | )   ( || ) \ \__  | )   ( || (___) || )   ( |
 \033[1;33m |/     \||/   \__/  |/     \|(_______)|/     \|
 ----------------------------------------------
- Author    : AHSAM UL HAQ
-Github     : MR-AUH404
-Facebook   : AHSAM UL HAQ 
-Tool Name  : MR-AUH
+ Author      : AHSAM UL HAQ
+Github       : MR-AUH404
+Facebook  : AHSAM UL HAQ 
+Tool Name : MR-AUH
  Type type : FREE
-Whatsapp   :032500440**
- Version   : 6.2.0
+Whatsapp :032500440**
+ Version    : 6.2.0
 ----------------------------------------------
 MR AUH JOIYA BRAND NAME TO SUNA HO GA🥺
 """
@@ -345,5 +345,5 @@ class load:
             time.sleep(0.1)
         print('\n')
  
-Auh_king()
+Sad_boy()
  
